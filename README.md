@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is to make a Dnd application that you and your friends can use.
 
 ## Available Scripts
 
